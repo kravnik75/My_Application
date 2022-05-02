@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="action_stop">STOP</string>
+    <string name="action_clear">CLEAR</string>
+    <string name="request_hint">What are you inserted in</string>
+
+</resources>

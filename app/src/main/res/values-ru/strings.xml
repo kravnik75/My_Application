@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мое приложение</string>
+    <string name="action_stop">СТОП</string>
+    <string name="action_clear">Удалить</string>
+    <string name="request_hint">What are you inserted in</string>
+
+</resources>

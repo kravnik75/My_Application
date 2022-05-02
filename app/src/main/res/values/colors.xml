@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="neo_300">#4bd0a0</color>
+    <color name="neo_500">#00ba76</color>
+    <color name="pro_800">#0066ff</color>
+    <color name="pro_900">#2341e0</color>
+    <color name="top_300">#986609</color>
+    <color name="top_500">#5D00F5</color>
+    <color name="biz_500">#eb236b</color>
+    <color name="biz_700">#c31e61</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
